@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, Express.Js**
 
-- 👨‍💻 All of my projects are available at [laoderahimsyah.my.id](laoderahimsyah.my.id)
-
 - 💬 Ask me about **React.js, Next.js**
 
 - 📫 How to reach me **rasyahodhe450@gmail.com**
